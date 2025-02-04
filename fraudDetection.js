@@ -1,4 +1,4 @@
-import { logEvent, generateUniqueId } from './utils.js';
+import { logEvent, generateUniqueId } from '.utils.js';
 
 const fraudPatterns = ['High-Risk Zone', 'Unknown Location'];
 
